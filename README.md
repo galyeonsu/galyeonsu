@@ -1,5 +1,5 @@
-<div><h1>안녕하세요 신입 개발자 갈연수 입니다!</h1>
-
+<div>
+<h1>안녕하세요 신입 개발자 갈연수 입니다!</h1> 
 
 <div align=center><h1>📚Stack</h1></div>
 <div align=center> 
